@@ -1,7 +1,7 @@
 Peer-to-peer File Transfer
 =========================
 
-The live working model link is given below:
+The live working model link is given:
 http://dropfiles.herokuapp.com/
 
 Description
